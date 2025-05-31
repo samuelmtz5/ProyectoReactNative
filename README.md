@@ -1,21 +1,23 @@
-# App para gestion de eventos
+# 📅 App para Gestión de Eventos
 
-Este es un proyecto de gestión de eventos desarrollado con React Native y Firebase, diseñado para administrar eventos de manera eficiente. 
+Este proyecto es una aplicación móvil desarrollada con **React Native** y **Firebase**, orientada a la administración eficiente de eventos.
 
-Esto es un proyecto realizado para la materia Diseño y Programación de Software Multiplataforma del Grupo 01T de la Universidad Don Bosco en modalidad Educación a Distancia.
+Fue realizado como parte del curso **Diseño y Programación de Software Multiplataforma**, impartido al **Grupo 01T** de la **Universidad Don Bosco**, en la modalidad de **Educación a Distancia**.
 
+---
 
+## ✨ Características
 
-## Caracteristicas
+- 🔐 **Autenticación de Usuarios**: Registro e inicio de sesión mediante correo electrónico y contraseña.
+- 🗓️ **Gestión de Eventos**: Permite crear y eliminar eventos fácilmente.
+- 🎨 **Interfaz Intuitiva**: Diseño de usuario amigable y accesible.
 
-- Autenticación de Usuarios: Los usuarios pueden registrarse e iniciar sesión con su correo electronico y una contraseña.
-- Gestión de Eventos: Crear y eliminar eventos. 
-- Interfaz de Usuario: Interfaz amigable.
+---
 
-## Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 
-- React Native
-- Firebase
+- **React Native**
+- **Firebase**
 
 
 
